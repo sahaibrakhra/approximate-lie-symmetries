@@ -29,4 +29,4 @@ This repository contains a computational and numeric framework designed to analy
 * **Symbolic-Numeric Computation:** Written in **Maple (`.mpl`)**, bridging rigorous algebraic derivation with computational geometry.
 
 ---
-*Authored by [Sahaib Rakhra](https://neocities.org)*
+*Authored by [Sahaib Rakhra]([https://neocities.org](https://sahaibrakhra.neocities.org))*
