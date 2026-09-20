@@ -4,7 +4,7 @@ This repository contains a computational and numeric framework designed to analy
 
 ---
 
-## 🗂️ Repository Structure & File Descriptions
+## Repository Structure & File Descriptions
 
 * **`1dquanticNLS.mpl`**  
   Implements the computational routine for analyzing the 1-dimensional quintic Nonlinear Schrödinger (NLS) equation framework.
@@ -23,7 +23,7 @@ This repository contains a computational and numeric framework designed to analy
 
 ---
 
-## 🛠️ Technical Scope & Methodology
+## Technical Scope & Methodology
 * **Lie Symmetry Analysis:** Determining infinitesimal generators of continuous transformation groups that leave the differential equation's solution set invariant under perturbation or exact parameters.
 * **Involutive Systems:** Using differential algebra to analyze involutive forms of differential systems.
 * **Symbolic-Numeric Computation:** Written in **Maple (`.mpl`)**, bridging rigorous algebraic derivation with computational geometry.
